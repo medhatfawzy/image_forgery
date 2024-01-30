@@ -1,0 +1,7 @@
+# local package
+numpy
+matplotlib
+seaborn
+tensorflow
+keras
+cv2
