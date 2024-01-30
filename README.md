@@ -1,5 +1,5 @@
-Image Forgery
-==============================
+## Image Forgery
+
 
 This data science project focuses on the development and implementation of a deep learning-based solution for identifying tampered regions within digital images, an essential task in fields like digital forensics and multimedia security. At the heart of the project is the U-Net architecture, a convolutional neural network originally designed for biomedical image segmentation. The choice of U-Net is motivated by its exceptional ability to capture fine details and its efficiency in learning from a limited amount of labeled data.
 
@@ -10,8 +10,7 @@ The core of the project is the adaptation and training of the U-Net model to rec
 Evaluation of the model's performance involves quantitative metrics such as accuracy and mean IoU metrics, as well as qualitative analysis through visual inspection of the segmented regions in test images. The project aims to achieve a high level of accuracy in detecting a wide range of tampering techniques like cloning.
 
 
-Project Organization
-------------
+## Project Organization
 
     ├── LICENSE
     ├── README.md          <- The top-level README for developers using this project.
